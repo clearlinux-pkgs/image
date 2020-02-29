@@ -4,7 +4,7 @@
 #
 Name     : image
 Version  : 1.5.28
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/9d/a7/70108b13af991e49deb0cbfc717cae57614eae29ff2d3fa79532eead28cb/image-1.5.28.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9d/a7/70108b13af991e49deb0cbfc717cae57614eae29ff2d3fa79532eead28cb/image-1.5.28.tar.gz
 Summary  : Django application that provides cropping, resizing, thumbnailing, overlays and masking for images and videos with the ability to set the center of attention,
@@ -43,6 +43,7 @@ python components for the image package.
 Summary: python3 components for the image package.
 Group: Default
 Requires: python3-core
+Provides: pypi(image)
 
 %description python3
 python3 components for the image package.
@@ -57,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1579798716
+export SOURCE_DATE_EPOCH=1582937330
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
