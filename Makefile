@@ -1,5 +1,5 @@
 PKG_NAME := image
-URL = https://files.pythonhosted.org/packages/20/08/4d64410d6ad018b51bc98725fa8755b37090062ad78c69d0f4037e3ff855/image-1.5.30.tar.gz
+URL = https://files.pythonhosted.org/packages/a7/5c/13c644e29359f18fafce2f756602e9d83401c295eedd534b717a801922e0/image-1.5.31.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
