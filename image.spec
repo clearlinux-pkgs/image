@@ -4,7 +4,7 @@
 #
 Name     : image
 Version  : 1.5.32
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/d7/bd/633efea01275946c9ea4109070e2ca0f60f2ff308957d9868cc55cc7c64b/image-1.5.32.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d7/bd/633efea01275946c9ea4109070e2ca0f60f2ff308957d9868cc55cc7c64b/image-1.5.32.tar.gz
 Summary  : Django application that provides cropping, resizing, thumbnailing, overlays and masking for images and videos with the ability to set the center of attention,
